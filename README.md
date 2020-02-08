@@ -1,6 +1,6 @@
-# EDA_Course
+![](./images/EDA_Course.png)
 
-## Exploratory Data Analysis Course
+# Exploratory Data Analysis Course
 
 ## Table of Content
 
