@@ -6,13 +6,27 @@
 ## Table of Content
 
   * data: A csv file with data.
+    * 2018\_Central\_Park\_Squirrel\_Census\_-\_Squirrel\_Data.csv
   * documents: pdf files 
   * images: images for presentation
+    * Data_in_Support_of_Enhancing_Metabolomics_Research_Through_Data_Mining.pdf
+    * Robinson-icebreaker.pdf
   * ipynb: Jupyter notebbok and slides
+    * presentation.ipynb
+    * presentation_slides.html
   * notes: 
     * nbconvert.txt: command to generate the html slides
   * scripts: Python scripts and R scripts
-  
+    * dataframe\_outlier\_pca.py
+    * dataframe\_outlier.py
+    * distances.py
+    * heterocedasticidad\_no\_normalidad.py
+    * heterocedasticidad.py
+    * mahalanobis\_example\_01.py
+    * mahalanobis\_example\_02.py
+    * pca.py
+    * qqplot.py
+    * tboxcox.R  
 
 ### Generate Slides
 

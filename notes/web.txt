@@ -1,7 +1,5 @@
 https://www.huffingtonpost.es/entry/estadistica-en-la-segunda-guerra-mundial-cuando-lo-importante-e_es_5c8ad74fe4b0f374fa9aa348
 
-
-
 https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/
 https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/
 
