@@ -1,0 +1,11 @@
+https://www.huffingtonpost.es/entry/estadistica-en-la-segunda-guerra-mundial-cuando-lo-importante-e_es_5c8ad74fe4b0f374fa9aa348
+
+
+
+https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/
+https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/
+
+https://www.google.com/search?hl=es&q=use%20mahalanobis%20distance%20outlier
+https://eurekastatistics.com/using-mahalanobis-distance-to-find-outliers/
+https://www.machinelearningplus.com/statistics/mahalanobis-distance/
+https://nirpyresearch.com/detecting-outliers-using-mahalanobis-distance-pca-python/
