@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.linear_model import LinearRegression
 
+np.random.seed(1)
+
 data = pd.DataFrame({
     'Groups': list('A'*50+'B'*50+'C'*50),
     'Values': np.concatenate([normal(loc = 0, scale = 1, size = 50), 
