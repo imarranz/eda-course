@@ -22,7 +22,7 @@ np.linalg.inv(np.cov(A,B))
 
 # REPRESENTACIÓN GRÁFICA --------------------------------------------------
 
-fig, ax = plt.subplots(nrows = 1, ncols = 1, figsize = (7,7))
+fig, ax = plt.subplots(nrows = 1, ncols = 1, figsize = (6,6))
 ax.scatter(A, B, alpha = 0.75)
 ax.set_xlim(-10, 10)
 ax.set_ylim(-10, 10)
