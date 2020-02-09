@@ -6,6 +6,7 @@
 
   * data: A csv file with data.
     * 2018\_Central\_Park\_Squirrel\_Census\_-\_Squirrel\_Data.csv
+    * o-ring-erosion-only.data
   * documents: pdf files 
     * Data\_in\_Support\_of\_Enhancing\_Metabolomics\_Research\_Through\_Data\_Mining.pdf
     * Robinson-icebreaker.pdf
