@@ -18,6 +18,9 @@
   * scripts: Python scripts and R scripts
     * dataframe\_outlier\_pca.py
     * dataframe\_outlier.py
+    * dealing\_with\_missing\_data\_example\_01.py
+    * dealing\_with\_missing\_data\_example\_02.py
+    * dealing\_with\_missing\_data\_example\_03.py
     * distances.py
     * heterocedasticidad\_no\_normalidad.py
     * heterocedasticidad.py
