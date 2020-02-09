@@ -7,7 +7,7 @@
   * data: A csv file with data.
     * 2018\_Central\_Park\_Squirrel\_Census\_-\_Squirrel\_Data.csv
   * documents: pdf files 
-    * Data_in_Support_of_Enhancing_Metabolomics_Research_Through_Data_Mining.pdf
+    * Data\_in\_Support\_of\_Enhancing\_Metabolomics\_Research\_Through\_Data\_Mining.pdf
     * Robinson-icebreaker.pdf
   * images: images for presentation
   * ipynb: Jupyter notebbok and slides
@@ -16,6 +16,7 @@
   * notes: 
     * nbconvert.txt: command to generate the html slides
   * scripts: Python scripts and R scripts
+    * boxplot\_simetria.py
     * dataframe\_outlier\_pca.py
     * dataframe\_outlier.py
     * dealing\_with\_missing\_data\_example\_01.py
@@ -28,14 +29,20 @@
     * mahalanobis\_example\_02.py
     * pca.py
     * qqplot.py
-    * shapiro_example_01.py
-    * shapiro_example_02.py
+    * shapiro\_example\_01.py
+    * shapiro\_example\_02.py
     * tboxcox.R  
 
 ### Generate Slides
 
 ```
 jupyter nbconvert presentation.ipynb --to slides --reveal-prefix reveal.js --no-prompt --SlidesExporter.reveal_theme=white --SlidesExporter.reveal_transition=slide --TagRemovePreprocessor.remove_input_tags={\"hide\"}
+```
+
+### Generate HTML document
+
+```
+jupyter nbconvert presentation.ipynb --to html --no-prompt --TagRemovePreprocessor.remove_input_tags={\"hide\"}
 ```
 
 ### Git Clone
