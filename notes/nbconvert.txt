@@ -1,5 +1,7 @@
  
 jupyter nbconvert presentation.ipynb --to slides --reveal-prefix reveal.js --no-prompt --SlidesExporter.reveal_theme=white --SlidesExporter.reveal_transition=slide --TagRemovePreprocessor.remove_input_tags={\"hide\"}
 
+jupyter nbconvert presentation.ipynb --to html --no-prompt --SlidesExporter.reveal_theme=white --SlidesExporter.reveal_transition=slide --TagRemovePreprocessor.remove_input_tags={\"hide\"}
+
 Interesante!!
 https://github.com/jupyterlab/jupyterlab/issues/4100
