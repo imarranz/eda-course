@@ -7,9 +7,9 @@
   * data: A csv file with data.
     * 2018\_Central\_Park\_Squirrel\_Census\_-\_Squirrel\_Data.csv
   * documents: pdf files 
-  * images: images for presentation
     * Data_in_Support_of_Enhancing_Metabolomics_Research_Through_Data_Mining.pdf
     * Robinson-icebreaker.pdf
+  * images: images for presentation
   * ipynb: Jupyter notebbok and slides
     * presentation.ipynb
     * presentation_slides.html
